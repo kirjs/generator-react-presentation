@@ -17,5 +17,12 @@ $ npm install -g generator-shower
 $ yo react-presentation
 ```
 
+### Editing the presentation
+Once the presentation has been generated, you can go to 'src/index.js' to start editing your presentation.  
 
+### Starting the server
+You can see the result by using the static server with react-hot-loader, that comes as a part of this generator. 
+```bash
+$ npm run start
+```
 
